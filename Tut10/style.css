@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik+Wet+Paint&display=swap');
+.img-logo{
+    height: 50px;
+}
+.body{
+    
+    background-image: url('https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg');
+}
+.item-nav{
+    color: white;
+    font-family: "Rubik Wet Paint", system-ui;
+    
+}
+.item-nav:hover{
+    color: rgb(101, 235, 101);
+}
+.anchor{
+    margin-left: auto;
+}
+
+
+
+.body-section{
+    height: 85vh;
+    
+   
+}
+.body-left {
+   
+    color: white;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 150px;
+    padding-top: 20px;
+    
+}
+.body-right {
+    color: white;
+    padding-left: 80px;
+    
+    
+}
+.profile-logo{
+    border-radius: 50%;
+    height: 280px;
+    width: 300px;
+    
+}
+.paragraph {
+    font-family: cursive;
+    font-size: 15px;
+}
+.intern-h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 20px;
+    
+    
+    
+}
+.intern-card{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border: solid white 2px;
+    color: white;
+    margin-bottom: 20px;
+    padding: 40px;
+    
+}
+.intern-card:hover{
+    border: 3px solid rgb(101, 235, 101);
+}
+.intern-comp{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
